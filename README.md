@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @akshitachauhan2403
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email{miss.chauhan1613@gmail.com}
+🌍 I'm based in Hamirpur, Himachal Pradesh, India.
+✉️ You can contact me at miss.chauhan1613@gmail.com
+🧠 I'm learning MERN.
+👯 I’m looking to collaborate on any Web Development Project.
+🤝 I’m looking for help with getting Remote Internships.
+💬 Ask me about Web Development.
+⚡ I love Swimming, Driving, Trekking, Playing Volleyball & Badminton, Watching Horror Movies and listening to music.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Akshitachauhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshitachauhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/akshitachauhan2403) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Akshitachauhan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akshita Chauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miss.chauhan1613@gmail.com) 
