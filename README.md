@@ -1,9 +1,15 @@
 🌍 I'm based in Hamirpur, Himachal Pradesh, India.
+
 ✉️ You can contact me at miss.chauhan1613@gmail.com
+
 🧠 I'm learning MERN.
+
 👯 I’m looking to collaborate on any Web Development Project.
+
 🤝 I’m looking for help with getting Remote Internships.
+
 💬 Ask me about Web Development.
+
 ⚡ I love Swimming, Driving, Trekking, Playing Volleyball & Badminton, Watching Horror Movies and listening to music.
 
 ## 🌐 Socials:
