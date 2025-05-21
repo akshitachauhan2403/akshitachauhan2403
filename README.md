@@ -1,6 +1,6 @@
 🌍 I'm based in Hamirpur, Himachal Pradesh, India.
 
-✉️ You can contact me at miss.chauhan1613@gmail.com
+✉️ You can contact me at akshita.chauhan1119@gmail.com
 
 🧠 I'm learning MERN.
 
